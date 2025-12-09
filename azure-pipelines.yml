@@ -5,4 +5,11 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo "Hello, DevOps!"
+- script: echo "Step 1: Hello, DevOps!"
+  displayName: "Start Message"
+
+- script: echo "Step 2: Doing some work"
+  displayName: "Work Message"
+
+- script: echo "Step 3: Finishing work"
+  displayName: "End Message"
