@@ -4,4 +4,4 @@ Description of my project!
 
 ## Subheading
 
-Watch git tutorial on YouTube.
+Learning how to create a pipeline.
